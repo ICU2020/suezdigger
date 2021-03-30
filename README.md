@@ -7,6 +7,8 @@
 
 
 # 免费工具：
+## [个人密码管理器](https://github.com/bitwarden)
+
 ## [Android科学上网工具链接](https://github.com/YoungBoy0048/Android)
 
 ## [iOS科学上网工具链接](https://github.com/YoungBoy0048/iOS)
